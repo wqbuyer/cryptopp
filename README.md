@@ -5,3 +5,6 @@ cryptopp是一个用c++编写的超强加解密扩展.性能优异可靠.完全�
 
 
 文档及下载地址：http://www.wqbuyer.com/demo/blog/2.html
+
+
+cryptopp可免费用于任何个人或者商业项目。
